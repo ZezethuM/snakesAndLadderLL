@@ -42,7 +42,7 @@ public class Snakes
     {
         
         int temp = MoveInt + count;
-        MoveInt += count;
+        MoveInt += Find(temp).Value;
         return MoveInt;
             
 
