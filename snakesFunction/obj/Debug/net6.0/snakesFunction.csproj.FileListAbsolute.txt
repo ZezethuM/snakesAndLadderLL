@@ -1,0 +1,15 @@
+/home/codex/My files/c-sharp_projects/snakesAndLadderLL/snakesFunction/bin/Debug/net6.0/snakesFunction
+/home/codex/My files/c-sharp_projects/snakesAndLadderLL/snakesFunction/bin/Debug/net6.0/snakesFunction.deps.json
+/home/codex/My files/c-sharp_projects/snakesAndLadderLL/snakesFunction/bin/Debug/net6.0/snakesFunction.runtimeconfig.json
+/home/codex/My files/c-sharp_projects/snakesAndLadderLL/snakesFunction/bin/Debug/net6.0/snakesFunction.dll
+/home/codex/My files/c-sharp_projects/snakesAndLadderLL/snakesFunction/bin/Debug/net6.0/snakesFunction.pdb
+/home/codex/My files/c-sharp_projects/snakesAndLadderLL/snakesFunction/obj/Debug/net6.0/snakesFunction.csproj.AssemblyReference.cache
+/home/codex/My files/c-sharp_projects/snakesAndLadderLL/snakesFunction/obj/Debug/net6.0/snakesFunction.GeneratedMSBuildEditorConfig.editorconfig
+/home/codex/My files/c-sharp_projects/snakesAndLadderLL/snakesFunction/obj/Debug/net6.0/snakesFunction.AssemblyInfoInputs.cache
+/home/codex/My files/c-sharp_projects/snakesAndLadderLL/snakesFunction/obj/Debug/net6.0/snakesFunction.AssemblyInfo.cs
+/home/codex/My files/c-sharp_projects/snakesAndLadderLL/snakesFunction/obj/Debug/net6.0/snakesFunction.csproj.CoreCompileInputs.cache
+/home/codex/My files/c-sharp_projects/snakesAndLadderLL/snakesFunction/obj/Debug/net6.0/snakesFunction.dll
+/home/codex/My files/c-sharp_projects/snakesAndLadderLL/snakesFunction/obj/Debug/net6.0/refint/snakesFunction.dll
+/home/codex/My files/c-sharp_projects/snakesAndLadderLL/snakesFunction/obj/Debug/net6.0/snakesFunction.pdb
+/home/codex/My files/c-sharp_projects/snakesAndLadderLL/snakesFunction/obj/Debug/net6.0/snakesFunction.genruntimeconfig.cache
+/home/codex/My files/c-sharp_projects/snakesAndLadderLL/snakesFunction/obj/Debug/net6.0/ref/snakesFunction.dll
